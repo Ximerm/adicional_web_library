@@ -148,7 +148,6 @@
   font-size: 24px;
   font-weight: bold;
   margin: 0 auto;
-  padding-bottom: 20px;
 }
 
 .table__text {
@@ -156,6 +155,7 @@
   font-size: 18px;
   font-weight: normal;
   margin: 0 auto;
+  padding-top: 20px;
 }
 
 .feynman {
@@ -172,7 +172,7 @@
   font-size: 120px;
   font-weight: bold;
   text-align: center;
-  padding: 100px 0 70px 200px;
+  padding: 100px 0 70px 230px;
   margin: 0 auto;
 }
 
@@ -183,7 +183,7 @@
   display: flex;
   justify-content: center;
   margin: 0 auto;
-  padding-left: 135px;
+  padding-left: 190px;
 }
 
 .feynman__link {

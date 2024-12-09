@@ -1,0 +1,16 @@
+.kaufman {
+  background-color: #000000;
+  position: relative;
+  overflow: hidden;
+  z-index: 0;
+}
+
+.kaufman__triangle {
+  position: absolute;
+  right: -240px;
+  top: 0;
+  width: 880px;
+  height: 856px;
+  z-index: -1;
+  animation: girar 20s linear infinite;
+}
